@@ -8,8 +8,8 @@ title: Guide to Contributing
 ### Introduction
 
 The MSSA Blog site is split into two main sections:
-* A personal blog located at [https://mssablog.com](https://mssablog.com), which focuses primarily on opinion-based topics, and
-* This open-source site for soft skills and technical resources, hosted at [https://mssablog.github.io](https://mssablog.github.io).
+* My personal blog located at [https://mssablog.com](https://mssablog.com), which focuses primarily on opinion-based topics, and
+* This open-source site for soft skills and technical resources, hosted as a public Github repository at [https://github.com/mssablog/mssablog.github.io](https://github.com/mssablog/mssablog.github.io).
 
 This doc focuses on contributions to the open-source site in the form of adding resources, fixing bugs, and making improvements to the site itself.  For more information on other ways to help out with the MSSA Blog project, check out [this page](https://mssablog.com/contribute/).
 
