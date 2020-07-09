@@ -17,8 +17,8 @@ The pages in this section are designed to enhance your understanding of some of 
 
 Technical resources are currently organized by learning path (links will be enabled as each page is ready to view):
 
-* Cloud Application Developer (CAD)
-* Server and Cloud Administrator (SCA)
+* [Cloud Application Developer (CAD)](https://mssablog.github.io/technical-skills/cad/index.html)
+* [Server and Cloud Administrator (SCA)](https://mssablog.github.io/technical-skills/sca/index.html)
 * Cybersecurity (CYBER)
 * General Technical Resources
 
