@@ -7,7 +7,7 @@ title: CAD Home
 
 ### Introduction
 
-The Cloud Application Developer track places a heavy emphasis on coding and cloud fundamentals, and is most ideal for those who would like to pursue careers software engineering or other related fields.
+The Cloud Application Developer track places a heavy emphasis on coding and cloud fundamentals, and is most ideal for those who would like to pursue jobs in software engineering or other related fields.
 
 The curriculum teaches the following core skills:
 
