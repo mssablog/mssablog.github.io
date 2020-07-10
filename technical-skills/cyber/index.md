@@ -1,24 +1,25 @@
 ---
 layout: left-sidebar
-title: SCA Home
+title: Cyber Home
 ---
 
-## Server and Cloud Administrator (SCA) Home
+## Cybersecurity (CYBER) Home
 
 ### Introduction
 
-The Server and Cloud Administrator track focuses primarily on skills needed to configure and manage cloud infrastructures, and is most ideal for those who would like to pursue jobs in systems administration, IT support, cloud engineering, and other related fields.
+The Cybersecurity track focuses primarily on information security and risk management topics, and is most ideal for those who would like to pursue jobs in security analysis, incident investigation and response, ethical hacking, and other related fields.  (Note: Cybersecurity is an extremely broad field so this is by no means an exhaustive list; see the [Cybersecurity Careers](https://mssablog.github.io/technical-skills/cyber/careers.html) page for more.)
 
 The curriculum teaches the following core skills:
 
-* Windows Server 2016
-* Networking and Virtualization
-* Cloud Fundamentals
-* Azure Administration
+* Networking and Systems Internals
+* Cloud and Azure Fundamentals
+* Identity Management and Access Control
+* Systems Security Policies and Practices
+* Incident Investigation and Resolution
 
 ### Content
 
-SCA resources are currently organized into the following pages (links will be enabled as each page is ready to view):
+Cybersecurity resources are currently organized into the following pages (links will be enabled as each page is ready to view):
 
 * Learning Resources
 * Project Ideas
