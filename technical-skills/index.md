@@ -15,12 +15,12 @@ The pages in this section are designed to enhance your understanding of some of 
 
 ### Content
 
-Technical resources are currently organized by learning path (links will be enabled as each page is ready to view):
+Technical resources are currently organized by learning path:
 
 * [Cloud Application Developer (CAD)](https://mssablog.github.io/technical-skills/cad/index.html)
 * [Server and Cloud Administrator (SCA)](https://mssablog.github.io/technical-skills/sca/index.html)
-* Cybersecurity (CYBER)
-* General Technical Resources
+* [Cybersecurity (CYBER)](https://mssablog.github.io/technical-skills/cyber/index.html)
+* [General Technical Resources](https://mssablog.github.io/technical-skills/general/index.html)
 
 Pages on additional topics will be continually added to each learning path section, so keep checking back!  In the meantime, feel free to [file an issue](https://github.com/mssablog/mssablog.github.io/issues) if you have an idea for a page you think would be helpful, or create the page yourself and [submit a pull request](https://mssablog.github.io/contributing.html)!
 
