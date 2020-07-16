@@ -15,7 +15,7 @@ Career guidance is an extremely important part of the MSSA curriculum, and stude
 
 Soft skills resources are currently organized into the following pages (links will be enabled as each page is ready to view):
 
-* Elevator Pitch
+* [Elevator Pitch](https://mssablog.github.io/soft-skills/elevator-pitch.html)
 * Resume Guidance
 * Networking and LinkedIn
 * Company Research
