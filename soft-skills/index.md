@@ -18,7 +18,7 @@ Soft skills resources are currently organized into the following pages (links wi
 * [Elevator Pitch](https://mssablog.github.io/soft-skills/elevator-pitch.html)
 * [Resume Guidance](https://mssablog.github.io/soft-skills/resume-guidance.html)
 * [Networking and LinkedIn](https://mssablog.github.io/soft-skills/networking-and-linkedin.html)
-* Company Research
+* [Company Research](https://mssablog.github.io/soft-skills/company-research.html)
 * [SOAR Stories](https://mssablog.github.io/soft-skills/soar-stories.html)
 * [Job Interview Prep](https://mssablog.github.io/soft-skills/job-interview-prep.html)
 
