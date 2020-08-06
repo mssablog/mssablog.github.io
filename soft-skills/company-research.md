@@ -32,7 +32,19 @@ Use the following resources for guidance and ideas on researching companies you'
 
 #### Researching Other Companies
 
-Coming soon!
+* [Indeed.com - The Complete Guide to Researching a Company](https://www.indeed.com/career-advice/finding-a-job/the-complete-guide-to-researching-a-company)
+* ...more coming soon!
+
+#### Company and Job Search Websites
+
+* [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+* [Indeed](https://www.indeed.com/)
+* [Monster](https://www.monster.com/)
+* [Glassdoor](https://www.glassdoor.com/index.htm)
+* [MyNextMove](https://www.mynextmove.org/)
+* [VetJobs](https://vetjobs.com/)
+* [USAJobs](https://www.usajobs.gov/)
+* [ClearanceJobs](https://www.clearancejobs.com/?)
 
 ### Contributing
 
