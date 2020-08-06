@@ -7,11 +7,13 @@ title: SCA Technical Interviews
 
 ### Introduction
 
-Coming soon!
+Use the following resources to prepare for technical interviews for roles aligned with your cohort's learning path.
 
-### Technical Interviews
+**Remember**: These questions are intended to help you practice your whiteboarding and how you respond to technical questions in general, but this **_should not be considered a complete list_**.  There is no limit to the possible topics an interviewer might choose to explore with you!
 
-Coming soon!
+### Sample Interview Questions
+
+#### Topic1
 
 ### Contributing
 
