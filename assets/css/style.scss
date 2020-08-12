@@ -108,6 +108,11 @@ Main navigation menu - top bar
   display: block;
 }
 
+/* keep main menu link color orange when hover on drop-down menu */
+.main-navigation-btn:hover .make-colorful {
+  color: orange;
+}
+
 /* dropdown arrows */
 .arrow {
   border: solid white;
