@@ -298,6 +298,13 @@ table, tr, td {
 Text
 *******************************************************************************/
 
+.resource-title {
+  font-weight: 700;
+  font-size: 18px;
+  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
+  text-decoration: underline;
+}
+
 .resource-description {
   margin-bottom: 10px;
 }
