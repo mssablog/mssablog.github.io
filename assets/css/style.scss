@@ -242,6 +242,25 @@ Footer
 }
 
 /*******************************************************************************
+Divs
+*******************************************************************************/
+
+.resource-row {
+  padding: 10px;
+}
+
+.resource-div {
+  width: 240px;
+  padding: 20px;
+  margin: 10px;
+  background-color: white;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  box-shadow: 0px 0px 10px #888888;
+}
+
+/*******************************************************************************
 Images
 *******************************************************************************/
 
@@ -251,6 +270,10 @@ Images
   max-width: 100px;
   max-height: 100px;
   margin: 0px;
+}
+
+.resource-image:hover {
+  border-color: orange;
 }
 
 /*******************************************************************************
@@ -275,6 +298,6 @@ table, tr, td {
 Text
 *******************************************************************************/
 
-.resource-title {
-  margin-top: 0px;
+.resource-description {
+  margin-bottom: 10px;
 }
