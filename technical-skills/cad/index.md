@@ -21,10 +21,10 @@ The curriculum teaches the following core skills:
 CAD resources are currently organized into the following pages (links will be enabled as each page is ready to view):
 
 * [Learning Resources](/technical-skills/cad/learning-resources/index.html)
-* [Project Ideas](/technical-skills/cad/project-ideas/index.html)
-* [Technical Interviews](/technical-skills/cad/technical-interviews/index.html)
+* Project Ideas
+* Technical Interviews
 * [Certifications](/technical-skills/cad/certifications/index.html)
-* [Careers](/technical-skills/cad/careers/index.html)
+* Careers
 
 More pages on additional topics will be added in the future, so keep checking back!  In the meantime, feel free to [file an issue](https://github.com/mssablog/mssablog.github.io/issues) if you have an idea for a page you think would be helpful, or create the page yourself and [submit a pull request](https://mssablog.github.io/contributing.html)!
 
