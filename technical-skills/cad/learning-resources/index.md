@@ -11,7 +11,7 @@ The following resources are intended as a supplement to your course materials fo
 
 <div class="resource-row">
     <div class="resource-div">
-        <a href="https://mssablog.github.io/technical-skills/cad/learning-resources/fundamentals.md">
+        <a href="/technical-skills/cad/learning-resources/fundamentals.md">
             <p class="resource-title">Fundamentals for Developers</p>
         </a>
         <p class="resource-description">
@@ -19,7 +19,7 @@ The following resources are intended as a supplement to your course materials fo
         </p>
     </div>
     <div class="resource-div">
-        <a href="https://mssablog.github.io/technical-skills/cad/learning-resources/mssa-curriculum.md">
+        <a href="/technical-skills/cad/learning-resources/mssa-curriculum.md">
             <p class="resource-title">MSSA Curriculum</p>
         </a>
         <p class="resource-description">
@@ -27,7 +27,7 @@ The following resources are intended as a supplement to your course materials fo
         </p>
     </div>
     <div class="resource-div">
-        <a href="https://mssablog.github.io/technical-skills/cad/learning-resources/advanced-topics.md">
+        <a href="/technical-skills/cad/learning-resources/advanced-topics.md">
             <p class="resource-title">Advanced Topics</p>
         </a>
         <p class="resource-description">
@@ -35,7 +35,7 @@ The following resources are intended as a supplement to your course materials fo
         </p>
     </div>
     <div class="resource-div">
-        <a href="https://mssablog.github.io/technical-skills/cad/learning-resources/reference.md">
+        <a href="/technical-skills/cad/learning-resources/reference.md">
             <p class="resource-title">Developer Reference</p>
         </a>
         <p class="resource-description">
