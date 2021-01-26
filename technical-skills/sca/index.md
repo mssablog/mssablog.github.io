@@ -1,13 +1,13 @@
 ---
 layout: left-sidebar
-title: SCA Home
+title: Server and Cloud Administrator
 ---
 
-## SCA Home
+## Server and Cloud Administrator
 
 ### Introduction
 
-The Server and Cloud Administrator track focuses primarily on skills needed to configure and manage cloud infrastructures, and is most ideal for those who would like to pursue jobs in systems administration, IT support, cloud engineering, and other related fields.
+The SCA track focuses primarily on skills needed to configure and manage cloud infrastructures, and is most ideal for those who would like to pursue jobs in systems administration, IT support, cloud engineering, and other related fields.
 
 The curriculum teaches the following core skills:
 

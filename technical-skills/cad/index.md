@@ -1,13 +1,13 @@
 ---
 layout: left-sidebar
-title: CAD Home
+title: Cloud Application Developer
 ---
 
-## CAD Home
+## Cloud Application Developer
 
 ### Introduction
 
-The Cloud Application Developer track places a heavy emphasis on coding and cloud fundamentals, and is most ideal for those who would like to pursue jobs in software engineering or other related fields.
+The CAD track places a heavy emphasis on coding and cloud fundamentals, and is most ideal for those who would like to pursue jobs in software engineering or other related fields.
 
 The curriculum teaches the following core skills:
 
@@ -22,7 +22,7 @@ CAD resources are currently organized into the following pages (links will be en
 
 * [Learning Resources](/technical-skills/cad/learning-resources/index.html)
 * Project Ideas
-* Technical Interviews
+* [Technical Interviews](/technical-skills/cad/technical-interviews/index.html)
 * [Certifications](/technical-skills/cad/certifications/index.html)
 * Careers
 

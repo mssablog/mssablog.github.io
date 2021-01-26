@@ -1,9 +1,9 @@
 ---
 layout: left-sidebar
-title: General Technical Resources Home
+title: General Technical Resources
 ---
 
-## General Technical Resources Home
+## General Technical Resources
 
 ### Introduction
 

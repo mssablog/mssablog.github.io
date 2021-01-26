@@ -1,9 +1,9 @@
 ---
 layout: left-sidebar
-title: Soft Skills Home
+title: Soft Skills
 ---
 
-## Soft Skills Home
+## Soft Skills
 
 ### Introduction
 

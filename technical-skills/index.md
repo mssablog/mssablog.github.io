@@ -1,9 +1,9 @@
 ---
 layout: left-sidebar
-title: Technical Skills Home
+title: Technical Skills
 ---
 
-## Technical Skills Home
+## Technical Skills
 
 Welcome to the technical skills section of the MSSA Blog project!
 
