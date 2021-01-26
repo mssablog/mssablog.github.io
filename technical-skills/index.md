@@ -5,6 +5,8 @@ title: Technical Skills
 
 ## Technical Skills
 
+### Introduction
+
 Welcome to the technical skills section of the MSSA Blog project!
 
 The pages in this section are designed to enhance your understanding of some of the topics in your technical curriculum, and can also serve as inspiration for potential future career paths as you identify specific areas of interest.  This section of the site should ideally prove useful to
