@@ -15,10 +15,10 @@ Working on personal projects is highly recommended during the MSSA because it he
 
 A few simpler projects and coding exercises to give you additional practice with the fundamentals and technologies you're learning in the MSSA.
 
-[**Basic Coding Exercises**](https://mssablog.github.io/technical-skills/cad/basic-coding-exercises.html)  
+[**Basic Coding Exercises**](/technical-skills/cad/project-ideas/basic-coding-exercises.html)  
 Exercises to help you ramp up on coding fundamentals that you'd like more experience with.
 
-[**Console Applications**](https://mssablog.github.io/technical-skills/cad/console-applications.html)  
+[**Console Applications**](/technical-skills/cad/project-ideas/console-applications.html)  
 Basic applications to help you tie your knowledge together into simple but complete programs.
 
 **Build a Personal Website**  
@@ -52,4 +52,4 @@ Chances are you’ll come across Python and maybe work with it at some point dur
 
 This site is designed with MSSA students in mind, and aims to make contributions easy even for those who have minimal coding experience.  Students and mentors alike are all welcome to submit pull requests.
 
-Take a look at the [Guide to Contributing](https://mssablog.github.io/contributing.html) page for ideas on how you can help and instructions for getting started!
+Take a look at the [Guide to Contributing](/contributing.html) page for ideas on how you can help and instructions for getting started!
