@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: Basic Coding Exercises
 ---
 
-## SOAR Stories
+## Basic Coding Exercises
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Coding Exercises
 
 Coming soon!
 

@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: SCA Certifications
 ---
 
-## SOAR Stories
+## SCA Certifications
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Certifications
 
 Coming soon!
 

@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: SCA Technical Interviews
 ---
 
-## SOAR Stories
+## SCA Technical Interviews
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Technical Interviews
 
 Coming soon!
 

@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: CAD Careers
 ---
 
-## SOAR Stories
+## CAD Careers
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Careers
 
 Coming soon!
 

@@ -1,17 +1,17 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: SCA Advanced Topics
 ---
 
-## SOAR Stories
+## SCA Advanced Topics
 
 ### Introduction
 
-Coming soon!
+TODO: Introduction
 
-### Resources
+### Content
 
-Coming soon!
+Coming Soon!
 
 ### Contributing
 

@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: Whiteboarding Tips
 ---
 
-## SOAR Stories
+## Whiteboarding Tips
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Whiteboarding Tips
 
 Coming soon!
 

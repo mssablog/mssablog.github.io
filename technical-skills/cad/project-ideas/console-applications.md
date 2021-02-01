@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: Console Applications
 ---
 
-## SOAR Stories
+## Console Applications
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Exercises and Applications
 
 Coming soon!
 

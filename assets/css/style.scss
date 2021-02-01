@@ -173,6 +173,7 @@ Layout: left-sidebar
 /* list level 2 - circle with no fill */
 .sidebar-level2-list {
   list-style-type: circle;
+  margin-bottom: 0;
 }
 
 /*******************************************************************************
@@ -239,4 +240,72 @@ Footer
 #footer_wrap a:active {
   color: orange;
   text-decoration: underline;
+}
+
+/*******************************************************************************
+Divs
+*******************************************************************************/
+
+.resource-row {
+  padding: 10px;
+}
+
+.resource-div {
+  width: 240px;
+  padding: 20px;
+  margin: 10px;
+  background-color: white;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  box-shadow: 0px 0px 10px #888888;
+}
+
+/*******************************************************************************
+Images
+*******************************************************************************/
+
+.resource-image {
+  border-width: 3px;
+  border-color: black;
+  max-width: 100px;
+  max-height: 100px;
+  margin: 0px;
+}
+
+.resource-image:hover {
+  border-color: orange;
+}
+
+/*******************************************************************************
+Tables
+*******************************************************************************/
+
+table {
+  width: 80%;
+}
+
+table, tr, td {
+  border-width: 0px;
+  vertical-align: top;
+}
+
+.resource-image-cell {
+  width: 130px;
+  text-align: right;
+}
+
+/*******************************************************************************
+Text
+*******************************************************************************/
+
+.resource-title {
+  font-weight: 700;
+  font-size: 18px;
+  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
+  text-decoration: underline;
+}
+
+.resource-description {
+  margin-bottom: 10px;
 }

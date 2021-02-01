@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: SCA Project Ideas
 ---
 
-## SOAR Stories
+## SCA Project Ideas
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Project Ideas
 
 Coming soon!
 

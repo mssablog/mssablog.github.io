@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: General Certification Hubs
 ---
 
-## SOAR Stories
+## General Certification Hubs
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Certification Hubs
 
 Coming soon!
 

@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: General Learning Resources
 ---
 
-## SOAR Stories
+## General Learning Resources
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Learning Resources
 
 Coming soon!
 

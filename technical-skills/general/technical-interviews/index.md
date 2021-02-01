@@ -1,15 +1,15 @@
 ---
 layout: left-sidebar
-title: SOAR Stories
+title: General Technical Interview Resources
 ---
 
-## SOAR Stories
+## General Technical Interview Resources
 
 ### Introduction
 
 Coming soon!
 
-### Resources
+### Certification Hubs
 
 Coming soon!
 
