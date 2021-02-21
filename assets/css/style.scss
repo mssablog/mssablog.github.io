@@ -12,25 +12,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header_wrap {
-  background: #17252A;
-  padding-top: 30px;
-  text-align: center;
-  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
-  //
-  /* gradient for header */
-  //background: -moz-linear-gradient(top, #17252A, #46707F);
-  //background: -webkit-linear-gradient(top, #17252A, #46707F);
-  //background: -ms-linear-gradient(top, #17252A, #46707F);
-  //background: -o-linear-gradient(top, #17252A, #46707F);
-  //background: linear-gradient(to top, #17252A, #46707F);
-  //height: 600px;
-  //
-  /* background image for header */
-  //background-image: url('../../images/RedmondCampus.JPG');
-  //background-repeat: no-repeat;
-  //background-size: cover;
-  //background-position: center center;
-  //background-attachment: fixed;
+    background: -moz-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+    background: -webkit-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+    background: -ms-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+    background: -o-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+    background: linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*background-attachment: fixed;*/
+    /*height: 450px*/
+    line-height: 142px;
+    padding-top: 80px;
+    text-align: center;
 }
 
 /*******************************************************************************
@@ -102,7 +96,17 @@ Main navigation menu - top bar
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
+ 
+/* dropdown submenus -- each cell */
+.main-navigation-dropdown > a {
+    border-bottom: 1px solid rgba(200,200,200,.1);
+}
 
+/* hovered past dropdown */
+.main-navigation-btn:hover #nav {
+  color: orange
+}
+ 
 /* display dropdown submenu on hover over main nav button */
 .main-navigation-btn:hover .main-navigation-dropdown {
   display: block;
@@ -247,20 +251,25 @@ Divs
 *******************************************************************************/
 
 .resource-row {
-  padding: 10px;
+  /*padding: 10px*/
 }
 
 .resource-div {
-  width: 240px;
-  padding: 20px;
-  margin: 10px;
+  max-width: 44%;
+  height: calc(55vh);
+  overflow: auto;
+  padding: 13px;
+  margin: 2px 4px 4px 4px;
   background-color: white;
   display: inline-block;
   text-align: center;
-  vertical-align: top;
-  box-shadow: 0px 0px 10px #888888;
+  box-shadow: 0px 0px 10px #888888
 }
 
+.resource-div:hover {
+  transform: scale(.98);
+}
+ 
 /*******************************************************************************
 Images
 *******************************************************************************/
