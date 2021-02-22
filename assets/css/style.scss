@@ -4,12 +4,29 @@
 @import "{{ site.theme }}";
 
 /*******************************************************************************
+Custom / Non-Default Fonts
+*******************************************************************************/
+
+/* playfair-display-regular - latin */
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../fonts/playfair-display-v22-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''), url('../../fonts/playfair-display-v22-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../../fonts/playfair-display-v22-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../../fonts/playfair-display-v22-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../../fonts/playfair-display-v22-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../../fonts/playfair-display-v22-latin-regular.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
+}
+
+
+/*******************************************************************************
 Header
 *******************************************************************************/
 
 h1, h2, h3, h4, h5, h6 {
-  /*font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;*/
-  font-family: inherit;
+  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
 }
 
 h2 {
@@ -18,19 +35,19 @@ h2 {
 }
 
 #header_wrap {
-    background: -moz-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
-    background: -webkit-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
-    background: -ms-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
-    background: -o-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
-    background: linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    /*background-attachment: fixed;*/
-    /*line-height: 146px; padding-top: 72px;*/
-    height: 474px;
-    text-align: center;
-    font-style: italic;
+  background: -moz-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+  background: -webkit-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+  background: -ms-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+  background: -o-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+  background: linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /*background-attachment: fixed;*/
+  /*line-height: 146px; padding-top: 72px;*/
+  height: 474px;
+  text-align: center;
+  font-style: italic;
 }
 
 #project_title {
@@ -38,13 +55,13 @@ h2 {
   letter-spacing: .0005rem;
   padding: 97px;
   text-shadow: none;
-  font-family: Times New Roman;
+  font-family: Times New Roman, serif;
 }
 
 #project_tagline {
   font-size: 20px;
   text-shadow: none;
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display', serif;
 }
 
 /*******************************************************************************
