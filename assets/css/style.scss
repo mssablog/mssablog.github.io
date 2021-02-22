@@ -34,16 +34,17 @@ h2 {
 }
 
 #header_wrap {
-  background: -moz-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
-  background: -webkit-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
-  background: -ms-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
-  background: -o-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
-  background: linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+  background: -moz-linear-gradient(top, rgba(75,75,75,0.2), #17252a),url("../../images/RedmondCampus.JPG");
+  background: -webkit-linear-gradient(top, rgba(75,75,75,0.2), #17252a),url("../../images/RedmondCampus.JPG");
+  background: -ms-linear-gradient(top, rgba(75,75,75,0.2), #17252a),url("../../images/RedmondCampus.JPG");
+  background: -o-linear-gradient(top, rgba(75,75,75,0.2), #17252a),url("../../images/RedmondCampus.JPG");
+  background: linear-gradient(top, rgba(75,75,75,0.2), #17252a),url("../../images/RedmondCampus.JPG");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   /*background-attachment: fixed;*/
-  line-height: 146px; 
+  /*height: 474px;*/
+  line-height: 146px;
   padding-top: 72px;
   text-align: center;
   font-style: italic;
@@ -59,7 +60,6 @@ h2 {
 #project_tagline {
   font-size: 20px;
   letter-spacing: .0005rem;
-  margin: 6px;
   text-shadow: none;
   font-family: 'Playfair Display', serif;
 }
@@ -84,7 +84,7 @@ Main navigation menu - top bar
 /* nav divs for buttons/links */
 .main-navigation-btn {
   display: inline-block;
-  padding: 6px .145rem 6px .145rem;
+  padding: 6px .145rem 6px .145rem
 }
 
 /* unvisited link */
