@@ -50,6 +50,20 @@ h1, h2, h3, h4, h5, h6 {
   //background-attachment: fixed;
 }
 
+#project_title {
+  font-size: 64px;
+  letter-spacing: .0005rem;
+  text-shadow: none;
+  font-family: Times New Roman, serif;
+}
+
+#project_tagline {
+  font-size: 20px;
+  letter-spacing: .0005rem;
+  text-shadow: none;
+  font-family: 'Playfair Display', serif;
+}
+
 /*******************************************************************************
 Main navigation menu - top bar
 *******************************************************************************/
