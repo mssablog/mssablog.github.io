@@ -4,6 +4,23 @@
 @import "{{ site.theme }}";
 
 /*******************************************************************************
+Custom / Non-Default Fonts
+*******************************************************************************/
+
+/* playfair-display-italic - latin */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/playfair-display-v22-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local(''), url('../fonts/playfair-display-v22-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/playfair-display-v22-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/playfair-display-v22-latin-italic.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/playfair-display-v22-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/playfair-display-v22-latin-italic.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
+}
+
+/*******************************************************************************
 Header
 *******************************************************************************/
 
