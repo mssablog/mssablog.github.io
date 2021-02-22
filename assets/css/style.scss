@@ -9,15 +9,15 @@ Custom / Non-Default Fonts
 
 /* playfair-display-italic - latin */
 @font-face {
-    font-family: 'Playfair Display';
-    font-style: italic;
-    font-weight: 400;
-    src: url('../../fonts/playfair-display-v22-latin-italic.eot'); /* IE9 Compat Modes */
-    src: local(''), url('../fonts/playfair-display-v22-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('../../fonts/playfair-display-v22-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('../../fonts/playfair-display-v22-latin-italic.woff') format('woff'), /* Modern Browsers */
-    url('../../fonts/playfair-display-v22-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
-    url('../../fonts/playfair-display-v22-latin-italic.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../../fonts/playfair-display-v22-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local(''), url('../fonts/playfair-display-v22-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../../fonts/playfair-display-v22-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../../fonts/playfair-display-v22-latin-italic.woff') format('woff'), /* Modern Browsers */
+  url('../../fonts/playfair-display-v22-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../../fonts/playfair-display-v22-latin-italic.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
 }
 
 /*******************************************************************************
@@ -59,6 +59,8 @@ h2 {
 
 #project_tagline {
   font-size: 20px;
+  letter-spacing: .0005rem;
+  margin: 6px;
   text-shadow: none;
   font-family: 'Playfair Display', serif;
 }
@@ -74,7 +76,7 @@ Main navigation menu - top bar
   position: relative;
   width: 100%;
   text-align: center;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: 600;
   text-transform: uppercase;
@@ -83,7 +85,7 @@ Main navigation menu - top bar
 /* nav divs for buttons/links */
 .main-navigation-btn {
   display: inline-block;
-  padding: 5px;
+  padding: 6px .145rem 6px .145rem;
 }
 
 /* unvisited link */
@@ -135,7 +137,7 @@ Main navigation menu - top bar
  
 /* dropdown submenus -- each cell */
 .main-navigation-dropdown > a {
-    border-bottom: 1px solid rgba(200,200,200,.1);
+  border-bottom: 1px solid rgba(200,200,200,.1);
 }
 
 /* hovered past dropdown */
@@ -151,10 +153,10 @@ Main navigation menu - top bar
 /* dropdown arrows */
 .arrow {
   border: solid white;
-  border-width: 0 3px 3px 0;
+  border-width: 0 2px 2px 0;
   display: inline-block;
-  padding: 2px;
-  margin: 3px;
+  padding: .13rem;
+  margin: 0px .34rem 4px 2px;
 }
 
 .down {
@@ -164,7 +166,7 @@ Main navigation menu - top bar
 
 .main-navigation-btn:hover .down {
   border: solid orange;
-  border-width: 0 3px 3px 0;
+  border-width: 0 2px 2px 0;
 }
 
 /*******************************************************************************
@@ -222,7 +224,7 @@ Body
 
 body {
   background: #17252A;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
 }
 
 /* unvisited link */
@@ -347,7 +349,7 @@ Text
 .resource-title {
   font-weight: 700;
   font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
   text-decoration: underline;
 }
 
