@@ -8,23 +8,34 @@ Header
 *******************************************************************************/
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
+  /*font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;*/
+  font-family: inherit;
 }
 
 #header_wrap {
-    background: -moz-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-    background: -webkit-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-    background: -ms-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-    background: -o-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-    background: linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    /*background-attachment: fixed;*/
-    /*height: 450px*/
-    line-height: 142px;
-    padding-top: 80px;
-    text-align: center;
+  background: -moz-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+  background: -webkit-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+  background: -ms-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+  background: -o-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+  background: linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /*background-attachment: fixed;*/
+  /*height: 450px*/
+  line-height: 146px;
+  padding-top: 72px;
+  text-align: center;
+  font-style: italic;
+  font-family: Times New Roman, 'Playfair Display', serif;
+}
+
+#project_title {
+  font-size: 64px;
+}
+
+#project_tagline {
+  font-size: 20px;
 }
 
 /*******************************************************************************
@@ -38,7 +49,7 @@ Main navigation menu - top bar
   position: relative;
   width: 100%;
   text-align: center;
-  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   font-weight: 600;
   text-transform: uppercase;
@@ -186,7 +197,7 @@ Body
 
 body {
   background: #17252A;
-  font-family: 'Open Sans', Calibri, Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* unvisited link */
@@ -311,7 +322,7 @@ Text
 .resource-title {
   font-weight: 700;
   font-size: 18px;
-  font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-decoration: underline;
 }
 
