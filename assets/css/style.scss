@@ -247,18 +247,24 @@ Divs
 *******************************************************************************/
 
 .resource-row {
-  padding: 10px;
+  /*padding: 10px*/
 }
 
 .resource-div {
-  width: 240px;
-  padding: 20px;
-  margin: 10px;
+  width: 44%;
+  height: calc(28vh - 1px);
+  overflow: auto;
+  padding: 13px;
+  margin: 2px 4px 4px 4px;
   background-color: white;
   display: inline-block;
   text-align: center;
-  vertical-align: top;
-  box-shadow: 0px 0px 10px #888888;
+  box-shadow: 0px 0px 10px #888
+}
+
+.resource-div:hover {
+  transform: scale(.98);
+  box-shadow: 0px 0px 30px #ebebeb
 }
 
 /*******************************************************************************
