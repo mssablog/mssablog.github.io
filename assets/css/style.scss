@@ -103,6 +103,11 @@ Main navigation menu - top bar
   z-index: 1;
 }
 
+/* hovered past dropdown */
+.main-navigation-btn:hover #nav {
+  color: orange
+}
+
 /* display dropdown submenu on hover over main nav button */
 .main-navigation-btn:hover .main-navigation-dropdown {
   display: block;
