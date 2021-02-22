@@ -12,30 +12,39 @@ h1, h2, h3, h4, h5, h6 {
   font-family: inherit;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 36px;
+}
+
 #header_wrap {
-  background: -moz-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-  background: -webkit-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-  background: -ms-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-  background: -o-linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-  background: linear-gradient(top, rgba(23, 37, 42, 0.15), #17252a), url("../../images/RedmondCampus.JPG");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  /*background-attachment: fixed;*/
-  /*height: 450px*/
-  line-height: 146px;
-  padding-top: 72px;
-  text-align: center;
-  font-style: italic;
-  font-family: Times New Roman, 'Playfair Display', serif;
+    background: -moz-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+    background: -webkit-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+    background: -ms-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+    background: -o-linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+    background: linear-gradient(top, rgba(23, 37, 42, 0.13), #17252a), url("../../images/RedmondCampus.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*background-attachment: fixed;*/
+    /*line-height: 146px; padding-top: 72px;*/
+    height: 474px;
+    text-align: center;
+    font-style: italic;
 }
 
 #project_title {
   font-size: 64px;
+  letter-spacing: .0005rem;
+  padding: 97px;
+  text-shadow: none;
+  font-family: Times New Roman;
 }
 
 #project_tagline {
   font-size: 20px;
+  text-shadow: none;
+  font-family: 'Playfair Display';
 }
 
 /*******************************************************************************
