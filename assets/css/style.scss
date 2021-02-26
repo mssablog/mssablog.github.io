@@ -4,6 +4,23 @@
 @import "{{ site.theme }}";
 
 /*******************************************************************************
+Custom / Non-Default Fonts
+*******************************************************************************/
+
+/* playfair-display-italic - latin */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/playfair-display-v22-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local(''), url('../fonts/playfair-display-v22-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/playfair-display-v22-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/playfair-display-v22-latin-italic.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/playfair-display-v22-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/playfair-display-v22-latin-italic.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
+}
+
+/*******************************************************************************
 Header
 *******************************************************************************/
 
@@ -11,10 +28,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 36px;
+}
+
 #header_wrap {
   background: #17252A;
   padding-top: 30px;
   text-align: center;
+  font-style: italic;
   font-family: 'Open Sans', 'Calibri', Helvetica, Arial, sans-serif;
   //
   /* gradient for header */
@@ -31,6 +54,20 @@ h1, h2, h3, h4, h5, h6 {
   //background-size: cover;
   //background-position: center center;
   //background-attachment: fixed;
+}
+
+#project_title {
+  font-size: 64px;
+  letter-spacing: .0005rem;
+  text-shadow: none;
+  font-family: Times New Roman, serif;
+}
+
+#project_tagline {
+  font-size: 20px;
+  letter-spacing: .0005rem;
+  text-shadow: none;
+  font-family: 'Playfair Display', serif;
 }
 
 /*******************************************************************************
@@ -53,7 +90,7 @@ Main navigation menu - top bar
 /* nav divs for buttons/links */
 .main-navigation-btn {
   display: inline-block;
-  padding: 5px;
+  padding: 6px .145rem 6px .145rem
 }
 
 /* unvisited link */
@@ -111,10 +148,10 @@ Main navigation menu - top bar
 /* dropdown arrows */
 .arrow {
   border: solid white;
-  border-width: 0 3px 3px 0;
+  border-width: 0 2px 2px 0;
   display: inline-block;
-  padding: 2px;
-  margin: 3px;
+  padding: .13rem;
+  margin: 0px .34rem 4px 2px;
 }
 
 .down {
